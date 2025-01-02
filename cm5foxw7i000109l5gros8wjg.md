@@ -14,7 +14,7 @@ tags: ai, bot, chatbot, chatgpt, digitral, qapilot, automated-bot
 
 This comprehensive guide walks through building a production-ready AI chatbot that combines pre-programmed responses with OpenAI's GPT models. The chatbot features a modern web interface, efficient message handling, and a hybrid response system that balances speed with AI capabilities.
 
-Click the link to explore a live demo of the chatbot we developed : → [Test Demonstration on Chatbot](https://drive.google.com/file/d/11YaMhar2hhnjK2M57IB5lRPMoi0w-xlt/view?usp=sharing) ←
+Click the link to explore : → [Test Demonstration on Chatbot](https://drive.google.com/file/d/11YaMhar2hhnjK2M57IB5lRPMoi0w-xlt/view?usp=sharing) ←
 
 ### Key Features
 
