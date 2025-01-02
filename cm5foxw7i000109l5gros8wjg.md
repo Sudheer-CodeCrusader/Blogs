@@ -1,5 +1,5 @@
 ---
-title: "Building an AI-Powered Chatbot: A Complete Guide"
+title: "Ultimate Guide to Creating an AI Chatbot"
 seoTitle: "Guide to Creating AI-Powered Chatbots"
 seoDescription: "Learn to build a production-ready AI chatbot using OpenAI's GPT, with a hybrid response system, scalable architecture, and responsive design"
 datePublished: Thu Jan 02 2025 19:00:06 GMT+0000 (Coordinated Universal Time)
