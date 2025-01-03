@@ -5,7 +5,7 @@ seoDescription: "Learn to build a production-ready AI chatbot using OpenAI's GPT
 datePublished: Thu Jan 02 2025 19:00:06 GMT+0000 (Coordinated Universal Time)
 cuid: cm5foxw7i000109l5gros8wjg
 slug: building-an-ai-powered-chatbot-a-complete-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735842205616/740d573a-07c5-4f5d-9e6c-cd93263d14b6.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735930428912/3e5609ff-2d03-4e9d-92bd-49e43ec5c44a.png
 tags: ai, bot, chatbot, chatgpt, digitral, qapilot, automated-bot
 
 ---
@@ -45,8 +45,6 @@ The chatbot uses a three-tier architecture:
     
 
 The system first attempts to match user queries against predefined responses in data.json. If no match is found, it forwards the query to OpenAI's API for an AI-generated response. This hybrid approach optimizes response time while maintaining conversation quality.
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1735842682121/fb10d7fc-4028-4397-a62e-00bfa1dc69f3.png align="center")
 
 ### Prerequisites
 
@@ -352,6 +350,8 @@ bashCopynode server.js
 
 4. Open [`http://localhost:3000`](http://localhost:3000) in your browser
     
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1735930975314/74bf1b2b-7edf-4937-965a-01250f846270.png align="center")
 
 ## Features
 
